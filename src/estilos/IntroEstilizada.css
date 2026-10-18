@@ -1,0 +1,8 @@
+.intro-estilizada::first-letter {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #a9746e;
+  float: left;
+  line-height: 1;
+  margin-right: 8px;
+}
