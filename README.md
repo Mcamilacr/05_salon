@@ -2,7 +2,7 @@
 
 Proyecto de Programación Web - UIS 2026-II (Fase I). React + Vite + React-Bootstrap.
 
-**Versión publicada:** <PEGAR AQUÍ LA URL DE VERCEL>
+**Versión publicada:** <https://05-salon.vercel.app/>
 
 ## Ejecutar en local
 ```bash
@@ -23,6 +23,8 @@ Usuario `Admin` · Contraseña `1234` → habilita la ruta privada `/panelPrivad
 - `multimedia/` imágenes, video y audio
 
 ## Integrantes
-Isabel Sofía García Joya 
+Isabel Sofía García Joya
+
 María Camila Cervera Rey
+
 Nicolás Alberto Arciniegas Rincón
