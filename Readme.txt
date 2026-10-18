@@ -34,13 +34,7 @@ Privada:   /panelPrivado
 
 VERSIÓN EN LA NUBE (RESPALDO)
 Si la aplicación no puede ejecutarse en local, está publicada en:
-   <PEGAR AQUÍ LA URL DE VERCEL>
+   <https://05-salon.vercel.app/>
 Repositorio GitHub (código fuente):
-   <PEGAR AQUÍ EL ENLACE DEL REPOSITORIO>
+   <https://github.com/Mcamilacr/05_salon.git>
 
-DESPLIEGUE EN LA NUBE (Vercel)
-1. Subir el proyecto a GitHub (git init, add, commit, push).
-2. En vercel.com iniciar sesión con GitHub > Add New > Project.
-3. Importar el repositorio. Framework: Vite | Build command: npm run build
-   | Output directory: dist
-4. Pulsar Deploy. Vercel entrega la URL pública.
