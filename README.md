@@ -6,6 +6,7 @@ Proyecto de Programación Web - UIS 2026-II (Fase I). React + Vite + React-Boots
 
 ## Ejecutar en local
 ```bash
+cd 05_salon
 npm install
 npm run dev
 ```
