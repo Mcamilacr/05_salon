@@ -7,10 +7,11 @@ REQUISITOS
 - Conexión a internet (solo para instalar dependencias)
 
 EJECUCIÓN EN COMPUTADOR LOCAL
-1. Descomprimir el .zip y abrir una terminal dentro de la carpeta 03_salon
-2. Instalar dependencias:     npm install
-3. Iniciar el servidor:       npm run dev
-4. Abrir en el navegador la URL que muestra la terminal
+1. Descomprimir el .zip y abrir una terminal dentro de la carpeta 05_salon
+2. Asegurarse que está ubicado en la carpeta del proyecto (interna) ejecutar: cd 05_salon
+3. Instalar dependencias: npm install
+4. Iniciar el servidor: npm run dev
+5. Abrir en el navegador la URL que muestra la terminal
    (normalmente http://localhost:5173)
 
 NOTA PARA WINDOWS
